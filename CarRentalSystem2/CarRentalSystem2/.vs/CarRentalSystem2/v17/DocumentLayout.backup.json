@@ -1,0 +1,316 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Users\\zolta\\OneDrive\\_Syncronized\\VSCommunity\\C#\\CarRentalSystem2\\CarRentalSystem2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA54D682-B308-427B-B237-ED6EE95D1BF3}|..\\CarRentalSystem2.DataContext\\CarRentalSystem2.DataContext.csproj|e:\\users\\zolta\\onedrive\\_syncronized\\vscommunity\\c#\\carrentalsystem2\\carrentalsystem2.datacontext\\migrations\\20250305132111_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA12176-9BCB-4C1B-B09D-23580DEF6CC8}|CarRentalSystem2.csproj|e:\\users\\zolta\\onedrive\\_syncronized\\vscommunity\\c#\\carrentalsystem2\\carrentalsystem2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DA12176-9BCB-4C1B-B09D-23580DEF6CC8}|CarRentalSystem2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA12176-9BCB-4C1B-B09D-23580DEF6CC8}|CarRentalSystem2.csproj|e:\\users\\zolta\\onedrive\\_syncronized\\vscommunity\\c#\\carrentalsystem2\\carrentalsystem2\\carrentalsystem2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2DA12176-9BCB-4C1B-B09D-23580DEF6CC8}|CarRentalSystem2.csproj|solutionrelative:carrentalsystem2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA54D682-B308-427B-B237-ED6EE95D1BF3}|..\\CarRentalSystem2.DataContext\\CarRentalSystem2.DataContext.csproj|e:\\users\\zolta\\onedrive\\_syncronized\\vscommunity\\c#\\carrentalsystem2\\carrentalsystem2.datacontext\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA54D682-B308-427B-B237-ED6EE95D1BF3}|..\\CarRentalSystem2.DataContext\\CarRentalSystem2.DataContext.csproj|e:\\users\\zolta\\onedrive\\_syncronized\\vscommunity\\c#\\carrentalsystem2\\carrentalsystem2.datacontext\\enities\\rentalscontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA54D682-B308-427B-B237-ED6EE95D1BF3}|..\\CarRentalSystem2.DataContext\\CarRentalSystem2.DataContext.csproj|e:\\users\\zolta\\onedrive\\_syncronized\\vscommunity\\c#\\carrentalsystem2\\carrentalsystem2.datacontext\\enities\\rentalhistorycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA54D682-B308-427B-B237-ED6EE95D1BF3}|..\\CarRentalSystem2.DataContext\\CarRentalSystem2.DataContext.csproj|e:\\users\\zolta\\onedrive\\_syncronized\\vscommunity\\c#\\carrentalsystem2\\carrentalsystem2.datacontext\\enities\\rentalhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA54D682-B308-427B-B237-ED6EE95D1BF3}|..\\CarRentalSystem2.DataContext\\CarRentalSystem2.DataContext.csproj|e:\\users\\zolta\\onedrive\\_syncronized\\vscommunity\\c#\\carrentalsystem2\\carrentalsystem2.datacontext\\enities\\clerk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA54D682-B308-427B-B237-ED6EE95D1BF3}|..\\CarRentalSystem2.DataContext\\CarRentalSystem2.DataContext.csproj|e:\\users\\zolta\\onedrive\\_syncronized\\vscommunity\\c#\\carrentalsystem2\\carrentalsystem2.datacontext\\enities\\administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA54D682-B308-427B-B237-ED6EE95D1BF3}|..\\CarRentalSystem2.DataContext\\CarRentalSystem2.DataContext.csproj|e:\\users\\zolta\\onedrive\\_syncronized\\vscommunity\\c#\\carrentalsystem2\\carrentalsystem2.datacontext\\enities\\abstractuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA54D682-B308-427B-B237-ED6EE95D1BF3}|..\\CarRentalSystem2.DataContext\\CarRentalSystem2.DataContext.csproj|e:\\users\\zolta\\onedrive\\_syncronized\\vscommunity\\c#\\carrentalsystem2\\carrentalsystem2.datacontext\\enities\\carrentalsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA54D682-B308-427B-B237-ED6EE95D1BF3}|..\\CarRentalSystem2.DataContext\\CarRentalSystem2.DataContext.csproj|e:\\users\\zolta\\onedrive\\_syncronized\\vscommunity\\c#\\carrentalsystem2\\carrentalsystem2.datacontext\\enities\\abstractrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA54D682-B308-427B-B237-ED6EE95D1BF3}|..\\CarRentalSystem2.DataContext\\CarRentalSystem2.DataContext.csproj|e:\\users\\zolta\\onedrive\\_syncronized\\vscommunity\\c#\\carrentalsystem2\\carrentalsystem2.datacontext\\enities\\registereduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA54D682-B308-427B-B237-ED6EE95D1BF3}|..\\CarRentalSystem2.DataContext\\CarRentalSystem2.DataContext.csproj|e:\\users\\zolta\\onedrive\\_syncronized\\vscommunity\\c#\\carrentalsystem2\\carrentalsystem2.datacontext\\enities\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA54D682-B308-427B-B237-ED6EE95D1BF3}|..\\CarRentalSystem2.DataContext\\CarRentalSystem2.DataContext.csproj|e:\\users\\zolta\\onedrive\\_syncronized\\vscommunity\\c#\\carrentalsystem2\\carrentalsystem2.datacontext\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA54D682-B308-427B-B237-ED6EE95D1BF3}|..\\CarRentalSystem2.DataContext\\CarRentalSystem2.DataContext.csproj|e:\\users\\zolta\\onedrive\\_syncronized\\vscommunity\\c#\\carrentalsystem2\\carrentalsystem2.datacontext\\carrentalsystem2.datacontext.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA12176-9BCB-4C1B-B09D-23580DEF6CC8}|CarRentalSystem2.csproj|e:\\users\\zolta\\onedrive\\_syncronized\\vscommunity\\c#\\carrentalsystem2\\carrentalsystem2\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DA12176-9BCB-4C1B-B09D-23580DEF6CC8}|CarRentalSystem2.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA12176-9BCB-4C1B-B09D-23580DEF6CC8}|CarRentalSystem2.csproj|e:\\users\\zolta\\onedrive\\_syncronized\\vscommunity\\c#\\carrentalsystem2\\carrentalsystem2\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DA12176-9BCB-4C1B-B09D-23580DEF6CC8}|CarRentalSystem2.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{173E85C6-6C2B-4EB9-BA14-5019D408E3A5}|..\\CarRentalSystem2.Sevices\\CarRentalSystem2.Sevices.csproj|e:\\users\\zolta\\onedrive\\_syncronized\\vscommunity\\c#\\carrentalsystem2\\carrentalsystem2.sevices\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250305132111_Initial.cs",
+              "DocumentMoniker": "E:\\Users\\zolta\\OneDrive\\_Syncronized\\VSCommunity\\C#\\CarRentalSystem2\\CarRentalSystem2.DataContext\\Migrations\\20250305132111_Initial.cs",
+              "RelativeDocumentMoniker": "..\\CarRentalSystem2.DataContext\\Migrations\\20250305132111_Initial.cs",
+              "ToolTip": "E:\\Users\\zolta\\OneDrive\\_Syncronized\\VSCommunity\\C#\\CarRentalSystem2\\CarRentalSystem2.DataContext\\Migrations\\20250305132111_Initial.cs",
+              "RelativeToolTip": "..\\CarRentalSystem2.DataContext\\Migrations\\20250305132111_Initial.cs",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:21:12.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarRentalSystem2",
+              "DocumentMoniker": "E:\\Users\\zolta\\OneDrive\\_Syncronized\\VSCommunity\\C#\\CarRentalSystem2\\CarRentalSystem2\\CarRentalSystem2.csproj",
+              "RelativeDocumentMoniker": "CarRentalSystem2.csproj",
+              "ToolTip": "E:\\Users\\zolta\\OneDrive\\_Syncronized\\VSCommunity\\C#\\CarRentalSystem2\\CarRentalSystem2\\CarRentalSystem2.csproj",
+              "RelativeToolTip": "CarRentalSystem2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-05T13:18:20.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RentalsContainer.cs",
+              "DocumentMoniker": "E:\\Users\\zolta\\OneDrive\\_Syncronized\\VSCommunity\\C#\\CarRentalSystem2\\CarRentalSystem2.DataContext\\Enities\\RentalsContainer.cs",
+              "RelativeDocumentMoniker": "..\\CarRentalSystem2.DataContext\\Enities\\RentalsContainer.cs",
+              "ToolTip": "E:\\Users\\zolta\\OneDrive\\_Syncronized\\VSCommunity\\C#\\CarRentalSystem2\\CarRentalSystem2.DataContext\\Enities\\RentalsContainer.cs",
+              "RelativeToolTip": "..\\CarRentalSystem2.DataContext\\Enities\\RentalsContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:02:57.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RentalHistoryContainer.cs",
+              "DocumentMoniker": "E:\\Users\\zolta\\OneDrive\\_Syncronized\\VSCommunity\\C#\\CarRentalSystem2\\CarRentalSystem2.DataContext\\Enities\\RentalHistoryContainer.cs",
+              "RelativeDocumentMoniker": "..\\CarRentalSystem2.DataContext\\Enities\\RentalHistoryContainer.cs",
+              "ToolTip": "E:\\Users\\zolta\\OneDrive\\_Syncronized\\VSCommunity\\C#\\CarRentalSystem2\\CarRentalSystem2.DataContext\\Enities\\RentalHistoryContainer.cs",
+              "RelativeToolTip": "..\\CarRentalSystem2.DataContext\\Enities\\RentalHistoryContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:02:27.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Clerk.cs",
+              "DocumentMoniker": "E:\\Users\\zolta\\OneDrive\\_Syncronized\\VSCommunity\\C#\\CarRentalSystem2\\CarRentalSystem2.DataContext\\Enities\\Clerk.cs",
+              "RelativeDocumentMoniker": "..\\CarRentalSystem2.DataContext\\Enities\\Clerk.cs",
+              "ToolTip": "E:\\Users\\zolta\\OneDrive\\_Syncronized\\VSCommunity\\C#\\CarRentalSystem2\\CarRentalSystem2.DataContext\\Enities\\Clerk.cs",
+              "RelativeToolTip": "..\\CarRentalSystem2.DataContext\\Enities\\Clerk.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:01:57.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Administrator.cs",
+              "DocumentMoniker": "E:\\Users\\zolta\\OneDrive\\_Syncronized\\VSCommunity\\C#\\CarRentalSystem2\\CarRentalSystem2.DataContext\\Enities\\Administrator.cs",
+              "RelativeDocumentMoniker": "..\\CarRentalSystem2.DataContext\\Enities\\Administrator.cs",
+              "ToolTip": "E:\\Users\\zolta\\OneDrive\\_Syncronized\\VSCommunity\\C#\\CarRentalSystem2\\CarRentalSystem2.DataContext\\Enities\\Administrator.cs",
+              "RelativeToolTip": "..\\CarRentalSystem2.DataContext\\Enities\\Administrator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:01:37.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AbstractUser.cs",
+              "DocumentMoniker": "E:\\Users\\zolta\\OneDrive\\_Syncronized\\VSCommunity\\C#\\CarRentalSystem2\\CarRentalSystem2.DataContext\\Enities\\AbstractUser.cs",
+              "RelativeDocumentMoniker": "..\\CarRentalSystem2.DataContext\\Enities\\AbstractUser.cs",
+              "ToolTip": "E:\\Users\\zolta\\OneDrive\\_Syncronized\\VSCommunity\\C#\\CarRentalSystem2\\CarRentalSystem2.DataContext\\Enities\\AbstractUser.cs",
+              "RelativeToolTip": "..\\CarRentalSystem2.DataContext\\Enities\\AbstractUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:00:46.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AbstractRole.cs",
+              "DocumentMoniker": "E:\\Users\\zolta\\OneDrive\\_Syncronized\\VSCommunity\\C#\\CarRentalSystem2\\CarRentalSystem2.DataContext\\Enities\\AbstractRole.cs",
+              "RelativeDocumentMoniker": "..\\CarRentalSystem2.DataContext\\Enities\\AbstractRole.cs",
+              "ToolTip": "E:\\Users\\zolta\\OneDrive\\_Syncronized\\VSCommunity\\C#\\CarRentalSystem2\\CarRentalSystem2.DataContext\\Enities\\AbstractRole.cs",
+              "RelativeToolTip": "..\\CarRentalSystem2.DataContext\\Enities\\AbstractRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T12:57:57.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CarRentalSystem.cs",
+              "DocumentMoniker": "E:\\Users\\zolta\\OneDrive\\_Syncronized\\VSCommunity\\C#\\CarRentalSystem2\\CarRentalSystem2.DataContext\\Enities\\CarRentalSystem.cs",
+              "RelativeDocumentMoniker": "..\\CarRentalSystem2.DataContext\\Enities\\CarRentalSystem.cs",
+              "ToolTip": "E:\\Users\\zolta\\OneDrive\\_Syncronized\\VSCommunity\\C#\\CarRentalSystem2\\CarRentalSystem2.DataContext\\Enities\\CarRentalSystem.cs",
+              "RelativeToolTip": "..\\CarRentalSystem2.DataContext\\Enities\\CarRentalSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T12:56:09.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegisteredUser.cs",
+              "DocumentMoniker": "E:\\Users\\zolta\\OneDrive\\_Syncronized\\VSCommunity\\C#\\CarRentalSystem2\\CarRentalSystem2.DataContext\\Enities\\RegisteredUser.cs",
+              "RelativeDocumentMoniker": "..\\CarRentalSystem2.DataContext\\Enities\\RegisteredUser.cs",
+              "ToolTip": "E:\\Users\\zolta\\OneDrive\\_Syncronized\\VSCommunity\\C#\\CarRentalSystem2\\CarRentalSystem2.DataContext\\Enities\\RegisteredUser.cs",
+              "RelativeToolTip": "..\\CarRentalSystem2.DataContext\\Enities\\RegisteredUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T12:53:51.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RentalHistory.cs",
+              "DocumentMoniker": "E:\\Users\\zolta\\OneDrive\\_Syncronized\\VSCommunity\\C#\\CarRentalSystem2\\CarRentalSystem2.DataContext\\Enities\\RentalHistory.cs",
+              "RelativeDocumentMoniker": "..\\CarRentalSystem2.DataContext\\Enities\\RentalHistory.cs",
+              "ToolTip": "E:\\Users\\zolta\\OneDrive\\_Syncronized\\VSCommunity\\C#\\CarRentalSystem2\\CarRentalSystem2.DataContext\\Enities\\RentalHistory.cs",
+              "RelativeToolTip": "..\\CarRentalSystem2.DataContext\\Enities\\RentalHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T12:53:29.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Rental.cs",
+              "DocumentMoniker": "E:\\Users\\zolta\\OneDrive\\_Syncronized\\VSCommunity\\C#\\CarRentalSystem2\\CarRentalSystem2.DataContext\\Enities\\Rental.cs",
+              "RelativeDocumentMoniker": "..\\CarRentalSystem2.DataContext\\Enities\\Rental.cs",
+              "ToolTip": "E:\\Users\\zolta\\OneDrive\\_Syncronized\\VSCommunity\\C#\\CarRentalSystem2\\CarRentalSystem2.DataContext\\Enities\\Rental.cs",
+              "RelativeToolTip": "..\\CarRentalSystem2.DataContext\\Enities\\Rental.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T12:49:35.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\Users\\zolta\\OneDrive\\_Syncronized\\VSCommunity\\C#\\CarRentalSystem2\\CarRentalSystem2.DataContext\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\CarRentalSystem2.DataContext\\Context\\AppDbContext.cs",
+              "ToolTip": "E:\\Users\\zolta\\OneDrive\\_Syncronized\\VSCommunity\\C#\\CarRentalSystem2\\CarRentalSystem2.DataContext\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "..\\CarRentalSystem2.DataContext\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T12:32:22.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CarRentalSystem2.DataContext.csproj",
+              "DocumentMoniker": "E:\\Users\\zolta\\OneDrive\\_Syncronized\\VSCommunity\\C#\\CarRentalSystem2\\CarRentalSystem2.DataContext\\CarRentalSystem2.DataContext.csproj",
+              "RelativeDocumentMoniker": "..\\CarRentalSystem2.DataContext\\CarRentalSystem2.DataContext.csproj",
+              "ToolTip": "E:\\Users\\zolta\\OneDrive\\_Syncronized\\VSCommunity\\C#\\CarRentalSystem2\\CarRentalSystem2.DataContext\\CarRentalSystem2.DataContext.csproj",
+              "RelativeToolTip": "..\\CarRentalSystem2.DataContext\\CarRentalSystem2.DataContext.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-05T12:17:51.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "E:\\Users\\zolta\\OneDrive\\_Syncronized\\VSCommunity\\C#\\CarRentalSystem2\\CarRentalSystem2\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "E:\\Users\\zolta\\OneDrive\\_Syncronized\\VSCommunity\\C#\\CarRentalSystem2\\CarRentalSystem2\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T12:17:23.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Users\\zolta\\OneDrive\\_Syncronized\\VSCommunity\\C#\\CarRentalSystem2\\CarRentalSystem2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Users\\zolta\\OneDrive\\_Syncronized\\VSCommunity\\C#\\CarRentalSystem2\\CarRentalSystem2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBgAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T12:17:19.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "E:\\Users\\zolta\\OneDrive\\_Syncronized\\VSCommunity\\C#\\CarRentalSystem2\\CarRentalSystem2\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "E:\\Users\\zolta\\OneDrive\\_Syncronized\\VSCommunity\\C#\\CarRentalSystem2\\CarRentalSystem2\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T12:17:19.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\Users\\zolta\\OneDrive\\_Syncronized\\VSCommunity\\C#\\CarRentalSystem2\\CarRentalSystem2.Sevices\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\CarRentalSystem2.Sevices\\Class1.cs",
+              "ToolTip": "E:\\Users\\zolta\\OneDrive\\_Syncronized\\VSCommunity\\C#\\CarRentalSystem2\\CarRentalSystem2.Sevices\\Class1.cs",
+              "RelativeToolTip": "..\\CarRentalSystem2.Sevices\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T12:16:39.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\Users\\zolta\\OneDrive\\_Syncronized\\VSCommunity\\C#\\CarRentalSystem2\\CarRentalSystem2.DataContext\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\CarRentalSystem2.DataContext\\Class1.cs",
+              "ToolTip": "E:\\Users\\zolta\\OneDrive\\_Syncronized\\VSCommunity\\C#\\CarRentalSystem2\\CarRentalSystem2.DataContext\\Class1.cs",
+              "RelativeToolTip": "..\\CarRentalSystem2.DataContext\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T12:15:40.736Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

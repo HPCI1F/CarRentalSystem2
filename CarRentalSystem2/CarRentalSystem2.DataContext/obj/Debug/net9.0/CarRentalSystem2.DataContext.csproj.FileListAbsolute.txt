@@ -1,0 +1,14 @@
+E:\Users\zolta\OneDrive\_Syncronized\VSCommunity\C#\CarRentalSystem2\CarRentalSystem2.DataContext\bin\Debug\net9.0\CarRentalSystem2.DataContext.deps.json
+E:\Users\zolta\OneDrive\_Syncronized\VSCommunity\C#\CarRentalSystem2\CarRentalSystem2.DataContext\bin\Debug\net9.0\CarRentalSystem2.DataContext.runtimeconfig.json
+E:\Users\zolta\OneDrive\_Syncronized\VSCommunity\C#\CarRentalSystem2\CarRentalSystem2.DataContext\bin\Debug\net9.0\CarRentalSystem2.DataContext.dll
+E:\Users\zolta\OneDrive\_Syncronized\VSCommunity\C#\CarRentalSystem2\CarRentalSystem2.DataContext\bin\Debug\net9.0\CarRentalSystem2.DataContext.pdb
+E:\Users\zolta\OneDrive\_Syncronized\VSCommunity\C#\CarRentalSystem2\CarRentalSystem2.DataContext\obj\Debug\net9.0\CarRentalSystem2.DataContext.csproj.AssemblyReference.cache
+E:\Users\zolta\OneDrive\_Syncronized\VSCommunity\C#\CarRentalSystem2\CarRentalSystem2.DataContext\obj\Debug\net9.0\CarRentalSystem2.DataContext.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\zolta\OneDrive\_Syncronized\VSCommunity\C#\CarRentalSystem2\CarRentalSystem2.DataContext\obj\Debug\net9.0\CarRentalSystem2.DataContext.AssemblyInfoInputs.cache
+E:\Users\zolta\OneDrive\_Syncronized\VSCommunity\C#\CarRentalSystem2\CarRentalSystem2.DataContext\obj\Debug\net9.0\CarRentalSystem2.DataContext.AssemblyInfo.cs
+E:\Users\zolta\OneDrive\_Syncronized\VSCommunity\C#\CarRentalSystem2\CarRentalSystem2.DataContext\obj\Debug\net9.0\CarRentalSystem2.DataContext.csproj.CoreCompileInputs.cache
+E:\Users\zolta\OneDrive\_Syncronized\VSCommunity\C#\CarRentalSystem2\CarRentalSystem2.DataContext\obj\Debug\net9.0\CarRentalSystem2.DataContext.dll
+E:\Users\zolta\OneDrive\_Syncronized\VSCommunity\C#\CarRentalSystem2\CarRentalSystem2.DataContext\obj\Debug\net9.0\refint\CarRentalSystem2.DataContext.dll
+E:\Users\zolta\OneDrive\_Syncronized\VSCommunity\C#\CarRentalSystem2\CarRentalSystem2.DataContext\obj\Debug\net9.0\CarRentalSystem2.DataContext.pdb
+E:\Users\zolta\OneDrive\_Syncronized\VSCommunity\C#\CarRentalSystem2\CarRentalSystem2.DataContext\obj\Debug\net9.0\CarRentalSystem2.DataContext.genruntimeconfig.cache
+E:\Users\zolta\OneDrive\_Syncronized\VSCommunity\C#\CarRentalSystem2\CarRentalSystem2.DataContext\obj\Debug\net9.0\ref\CarRentalSystem2.DataContext.dll

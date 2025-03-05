@@ -1,0 +1,14 @@
+E:\Users\zolta\OneDrive\_Syncronized\VSCommunity\C#\CarRentalSystem2\CarRentalSystem2.Sevices\bin\Debug\net9.0\CarRentalSystem2.Sevices.deps.json
+E:\Users\zolta\OneDrive\_Syncronized\VSCommunity\C#\CarRentalSystem2\CarRentalSystem2.Sevices\bin\Debug\net9.0\CarRentalSystem2.Sevices.runtimeconfig.json
+E:\Users\zolta\OneDrive\_Syncronized\VSCommunity\C#\CarRentalSystem2\CarRentalSystem2.Sevices\bin\Debug\net9.0\CarRentalSystem2.Sevices.dll
+E:\Users\zolta\OneDrive\_Syncronized\VSCommunity\C#\CarRentalSystem2\CarRentalSystem2.Sevices\bin\Debug\net9.0\CarRentalSystem2.Sevices.pdb
+E:\Users\zolta\OneDrive\_Syncronized\VSCommunity\C#\CarRentalSystem2\CarRentalSystem2.Sevices\obj\Debug\net9.0\CarRentalSystem2.Sevices.csproj.AssemblyReference.cache
+E:\Users\zolta\OneDrive\_Syncronized\VSCommunity\C#\CarRentalSystem2\CarRentalSystem2.Sevices\obj\Debug\net9.0\CarRentalSystem2.Sevices.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\zolta\OneDrive\_Syncronized\VSCommunity\C#\CarRentalSystem2\CarRentalSystem2.Sevices\obj\Debug\net9.0\CarRentalSystem2.Sevices.AssemblyInfoInputs.cache
+E:\Users\zolta\OneDrive\_Syncronized\VSCommunity\C#\CarRentalSystem2\CarRentalSystem2.Sevices\obj\Debug\net9.0\CarRentalSystem2.Sevices.AssemblyInfo.cs
+E:\Users\zolta\OneDrive\_Syncronized\VSCommunity\C#\CarRentalSystem2\CarRentalSystem2.Sevices\obj\Debug\net9.0\CarRentalSystem2.Sevices.csproj.CoreCompileInputs.cache
+E:\Users\zolta\OneDrive\_Syncronized\VSCommunity\C#\CarRentalSystem2\CarRentalSystem2.Sevices\obj\Debug\net9.0\CarRentalSystem2.Sevices.dll
+E:\Users\zolta\OneDrive\_Syncronized\VSCommunity\C#\CarRentalSystem2\CarRentalSystem2.Sevices\obj\Debug\net9.0\refint\CarRentalSystem2.Sevices.dll
+E:\Users\zolta\OneDrive\_Syncronized\VSCommunity\C#\CarRentalSystem2\CarRentalSystem2.Sevices\obj\Debug\net9.0\CarRentalSystem2.Sevices.pdb
+E:\Users\zolta\OneDrive\_Syncronized\VSCommunity\C#\CarRentalSystem2\CarRentalSystem2.Sevices\obj\Debug\net9.0\CarRentalSystem2.Sevices.genruntimeconfig.cache
+E:\Users\zolta\OneDrive\_Syncronized\VSCommunity\C#\CarRentalSystem2\CarRentalSystem2.Sevices\obj\Debug\net9.0\ref\CarRentalSystem2.Sevices.dll
